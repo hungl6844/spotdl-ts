@@ -1,0 +1,17 @@
+{
+  "name": "spotdl-ts",
+  "module": "index.ts",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "trustedDependencies": [
+    "protobufjs"
+  ],
+  "type": "module",
+  "dependencies": {
+    "bun": "^1.1.7"
+  }
+}
