@@ -1,3 +1,7 @@
+# DISCLAIMER
+
+So, this technically works, but it probably runs into ratelimits quite often and I can't guarantee accuracy. I also cannot recommend you use this for legal reasons, as well as because I'm abandoning this project. There are better alternatives, but writing this was a pleasure.
+
 # spotdl-ts
 
 This is a project to download spotify playlists given a spotify playlist id, a spotify api client key, and client secret.
